@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition Commercial Invoice'
+define service ZSD_COMMCL_INC {
+  expose ZC_COMMCL_INC;
+}
